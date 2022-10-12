@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ernest_owolabi" target="blank"><img src="https://img.shields.io/twitter/follow/ernest_owolabi?logo=twitter&style=for-the-badge" alt="ernest_owolabi" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript frameworks and how to use react hooks to develop dynamic web applications.**
+- 🌱 I’m currently learning **Frontend Libraries and how to use them to make dynamic web applications**
 
 - 💬 Ask me about **anything ;)**
 
