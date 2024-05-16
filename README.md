@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ernest Owolabi</h1>
-<h3 align="center">A Data Analyst</h3>
 
 <p align="left"> <a href="https://twitter.com/ernest_owolabi" target="blank"><img src="https://img.shields.io/twitter/follow/ernest_owolabi?logo=twitter&style=for-the-badge" alt="ernest_owolabi" /></a> </p>
 
